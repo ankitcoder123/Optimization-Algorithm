@@ -1,4 +1,3 @@
 # Optimization-Algorithm
-Delivery Optimization
-Task Allocation
+Delivery Optimization and Task Allocation
 
